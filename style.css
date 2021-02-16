@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color: tomato;
+}
+
+button{
+    border-radius: 5px;
+    padding: 15px 32px;
+    font-size: 16px;
+    background-color: rgb(51, 230, 51);
+    border: none;
+}
+
+#quote{
+     font-size: 3rem;
+     padding: 20px;
+     color: yellow;
+
+}
+
+#author{
+    font-size: 1.5rem;
+}
